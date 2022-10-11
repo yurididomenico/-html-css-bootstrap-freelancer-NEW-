@@ -34,11 +34,22 @@ a
 
 
 /* |||||||||| MAIN |||||||||| */
+/* Colore Sezione 1 */
 .bg-verde
 {
   background-color: #20bd9e;
 }
 
+/* Separatore */
+.separatore
+{
+  display: flex;
+}
+
+.linea
+{
+  height: 2px;
+}
 
 /* |||||||||| FOOTER |||||||||| */
 
