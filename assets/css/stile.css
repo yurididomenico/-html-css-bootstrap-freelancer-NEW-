@@ -26,11 +26,18 @@ a
 
 
 /* |||||||||| NAV |||||||||| */
-
+/* Colore Navbar */
+.bg-blu-scuro
+{
+  background-color: #2d3e4f;
+}
 
 
 /* |||||||||| MAIN |||||||||| */
-
+.bg-verde
+{
+  background-color: #20bd9e;
+}
 
 
 /* |||||||||| FOOTER |||||||||| */
